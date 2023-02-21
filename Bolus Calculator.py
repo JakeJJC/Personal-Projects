@@ -1,4 +1,4 @@
-print("Welcome to Jake's Insulin Correction Calculator\n")
+print("Welcome to Jake's Bolus Calculator\n")
 input("Press any key to continue\n")
 
 def calc():
